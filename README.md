@@ -1,7 +1,7 @@
 # My Sister's Project
 
 ## Description
-Brief description of the project goes here.
+Below is the relative URL that supports the library usage during the development and technology to support the understanding related to the project.
 
 ## Table of Contents
 - [URL](#url)
