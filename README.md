@@ -1,4 +1,4 @@
-# Point of Sale System
+# My Sister's Project
 
 ## Description
 Brief description of the project goes here.
